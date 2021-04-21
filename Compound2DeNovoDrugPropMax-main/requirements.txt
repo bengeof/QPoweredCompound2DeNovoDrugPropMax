@@ -26,4 +26,5 @@ tensorflow-probability==0.7.0
 tensorflow-text==2.3.0
 xgboost==1.1.1
 MGLTools==1.5.6
+penylane
 AutoDock Vina
